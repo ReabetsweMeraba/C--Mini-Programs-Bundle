@@ -11,14 +11,14 @@ This project groups several standalone C++ programs written for school assignmen
 
 ## 📝 Programs Included
 
-### ✅ Q1 - Validate Account Number (`Q1_ValidateAccountNumber.cpp`)
+### ✅ Q1 - Validate Account Number (`ValidateAccountNumber.cpp`)
 Validates a user-provided account number using a simple modulo logic. It checks if the last digit is equal to the account number divided by 7.
 
 **Key Concepts**: Arithmetic operations, conditionals.
 
 ---
 
-### ✅ Q2 - Farm Animal Leg Counter (`Q2_FarmAnimalLegCounter.cpp`)
+### ✅ Q2 - Farm Animal Leg Counter (`Farmer.cpp`)
 Calculates the total number of legs from three types of animals:
 - Chickens: 2 legs each
 - Cows: 4 legs each
@@ -28,7 +28,7 @@ Calculates the total number of legs from three types of animals:
 
 ---
 
-### ✅ Q3 - Leap Year Checker (`Q3_LeapYearChecker.cpp`)
+### ✅ Q3 - Leap Year Checker (`LeapYear.cpp`)
 Asks the user for a year and checks if it's a leap year (divisible by 4) or not.
 
 **Key Concepts**: Modulo logic, user input, simple branching.
@@ -45,7 +45,7 @@ Asks the user for a year and checks if it's a leap year (divisible by 4) or not.
 
 ---
 
-### ✅ Extra - Square Root of Pi (`Extra_SqrtOfPi.cpp`)
+### ✅ Extra - Square Root of Pi (`Pi.cpp`)
 A small snippet that prints the square root of π (pi) using the `sqrt` function.
 
 **Key Concepts**: Math functions, constants, output formatting.
